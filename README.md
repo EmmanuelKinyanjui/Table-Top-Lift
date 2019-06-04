@@ -1,1 +1,2 @@
-# table_top_lift
+# The Design and Fabrication of a Table-Top Lift
+
