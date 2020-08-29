@@ -31,4 +31,6 @@ The project involved the design, fabrication and prototyping of a 3 floor lift/e
 * Eric Kinyanjui
 * Emmanuel Kinyanjui
 
-[See the video](http://emmanuelkinyanjui.com/2019/05/05/the-design-and-prototyping-of-a-table-top-elevator/)
+[Motor testing](https://vimeo.com/334304688)
+[Prototypoe testing video](https://vimeo.com/334304688)
+[Final presentation test](https://vimeo.com/334304654)
