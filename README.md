@@ -15,7 +15,7 @@ The project involved the design, fabrication and prototyping of a 3 floor lift/e
 * Earl Chirchir
 * Dennis Mwai
 * Hannah Gitere
-* Emmanuel Kinyanjui
+* Xavier Michael Okumu
 
 ### Electronics Design and PCB Fabrication team
 
@@ -29,5 +29,6 @@ The project involved the design, fabrication and prototyping of a 3 floor lift/e
 * MaryCaroline Wambui
 * Antony Kariuki
 * Eric Kinyanjui
+* Emmanuel Kinyanjui
 
-[Read more](http://emmanuelkinyanjui.com/2019/05/05/the-design-and-prototyping-of-a-table-top-elevator/)
+[See the video](http://emmanuelkinyanjui.com/2019/05/05/the-design-and-prototyping-of-a-table-top-elevator/)
